@@ -1,3 +1,6 @@
+// The code is also available at:
+// https://ee-api.appspot.com/ae2e427b6f82c5a2cbf8e91403724604
+
 var scale = 200; // in metres
 
 var gfcImage = ee.Image('UMD/hansen/global_forest_change_2013');
