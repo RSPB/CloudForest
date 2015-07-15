@@ -1,5 +1,6 @@
-// The code is also available at:
-// https://ee-api.appspot.com/ae2e427b6f82c5a2cbf8e91403724604
+/* The code is also available at:
+   https://ee-api.appspot.com/ae2e427b6f82c5a2cbf8e91403724604
+   where it can be directly executed */
 
 var scale = 200; // in metres
 
