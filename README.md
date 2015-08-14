@@ -1,4 +1,4 @@
-CloudForest - Rapid cloud-based processing of global tree loss maps at multiple spatial scales
+CloudForest
 =========
 
 The CloudForest is a repository of scripts for calculation and visualisation of deforestation using Google Earth Engine (GEE), a cloud computing platform dedicated to geo-spatial analysis. The JavaScript code is meant to be executed on GEE Playground, a web-based programming interface to the Engine. 
