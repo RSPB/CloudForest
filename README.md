@@ -28,10 +28,10 @@ It should be noted that Hansen et al. in their work used Food and Agriculture Or
 
 ## Scripts
 
-### ecoregions.js
+#### ecoregions.js
 Calculation of forest area in 2000 and the sustained loss in 2001 - 2012 for the selected WWF ecoregion. Since the GFC map algorithm evaluates as tree any vegetation taller than 5 metres, and we were mostly interested in natural forest, we excluded from our analysis known wood fibre and oil palm plantations. 
 
-### grid_30km.js
+#### grid_30km.js
 Computation of global deforestation for a 30km x 30km grid cells.
 
 ## Installation
