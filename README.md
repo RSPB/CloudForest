@@ -6,6 +6,7 @@ The CloudForest is a repository of scripts for calculation and visualisation of 
   - [Google Earth Engine](#google-earth-engine)
   - [Global Forest Change map](#global-forest-change-map)
   - [Scripts](#scripts)
+  - [Installation](#installation)
 
 ## Overview
 The scripts use Hansen et al. (2013) Global Forest Change map in conjunction with Google Earth Engine to calculate forest cover in years 2000 - 2012 for a given area. The JavaScript code is meant to be executed on GEE Playground, a web-based programming interface to the Engine. 
@@ -28,9 +29,10 @@ It should be noted that Hansen et al. in their work used Food and Agriculture Or
 ## Scripts
 
 ### ecoregions.js
-
 Calculation of forest area in 2000 and the sustained loss in 2001 - 2012 for the selected WWF ecoregion. Since the GFC map algorithm evaluates as tree any vegetation taller than 5 metres, and we were mostly interested in natural forest, we excluded from our analysis known wood fibre and oil palm plantations. 
 
 ### grid_30km.js
-
 Computation of global deforestation for a 30km x 30km grid cells.
+
+## Installation
+The JavaScript code is meant to be executed in [GEE Playground](https://ee-api.appspot.com/), a web-based interface to the Engine. Consequently, there is no installation step - user only needs to have access to the GEE. At the moment (late 2015) GEE is freely available after beta signup. 
