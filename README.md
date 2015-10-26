@@ -9,10 +9,10 @@ The CloudForest is a repository of scripts for calculation and visualisation of 
   - [Installation](#installation)
 
 ## Overview
-The scripts use Hansen et al. (2013) Global Forest Change map in conjunction with Google Earth Engine to calculate forest cover in years 2000 - 2012 for a given area. The JavaScript code is meant to be executed on GEE Playground, a web-based programming interface to the Engine. 
+The scripts use [Hansen et al. (2013)](http://www.sciencemag.org/content/342/6160/850.abstract) [Global Forest Change map](http://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.0.html) in conjunction with Google Earth Engine to calculate forest cover in years 2000 - 2012 for a given area. The JavaScript code is meant to be executed on GEE Playground, a web-based programming interface to the Engine. 
 
 ## Google Earth Engine
-Google Earth Engine (GEE) is a cloud computing platform dedicated to Earth Observation. Its massive data archive brings together over 40 years of historical and current Earth observation imagery and consists of petabytes of data, constantly growing as new imagery is acquired. API of the Earth Engine, provided in Python and JavaScript, allows seamless parallel computing and geospatial operation: developer for most of the time can remain blissfully unaware of underlying complexity of distributed computing, managing projections or resampling of data. 
+[Google Earth Engine](https://earthengine.google.org) (GEE) is a cloud computing platform dedicated to Earth Observation. Its massive data archive brings together over 40 years of historical and current Earth observation imagery and consists of petabytes of data, constantly growing as new imagery is acquired. API of the Earth Engine, provided in Python and JavaScript, allows seamless parallel computing and geospatial operation: developer for most of the time can remain blissfully unaware of underlying complexity of distributed computing, managing projections or resampling of data. 
 
 
 ## Global Forest Change map
