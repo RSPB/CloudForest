@@ -1,5 +1,5 @@
 # CloudForest repository 
-The CloudForest is a repository of scripts for calculation and visualisation of deforestation using Google Earth Engine (GEE), a cloud computing platform dedicated to geo-spatial analysis. 
+The CloudForest is a repository of scripts for calculation and visualisation of deforestation using Google Earth Engine (GEE), a cloud computing platform dedicated to geo-spatial analysis. The provided code has been used to generate data for the paper published in Remote Sensing and Conservation journal: [Patterns of twenty-first century forest loss across a global network of important sites for biodiversity](http://onlinelibrary.wiley.com/doi/10.1002/rse2.13/abstract).
 
 ## Contents
   - [Overview](#overview)
